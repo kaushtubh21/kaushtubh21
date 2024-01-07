@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Sales Forecasting Analysis using Python</b>
-  - [Walmart Sales Forecating Using Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Walmart Sales Forecasting Using Python](https://github.com/kaushtubh21/Walmart-Sales-Forecasting-Analysis)
 - <b>Power BI</b>
   - [Retail Stores Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [USA University Admission and Superstore Sales Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
