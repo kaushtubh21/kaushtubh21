@@ -11,7 +11,6 @@
 <h2>Certification</h2>
 
 - [Tableau Desktop Specialist Certified](https://www.credly.com/badges/488f15a3-4f40-421a-8d98-995fd829bdc5)
-- [AWS Certified Cloud Practitioner](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>
 
