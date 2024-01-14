@@ -6,7 +6,7 @@
   - [Walmart Sales Forecasting Using Python](https://github.com/kaushtubh21/Walmart-Sales-Forecasting-Analysis)
 - <b>Power BI</b>
   - [Retail Stores Analysis](https://github.com/kaushtubh21/Retail-Store-Analysis)
-  - [USA University Admission and Superstore Sales Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [USA University Admission and Superstore Sales Analysis](https://github.com/kaushtubh21/University-Admissions-and-Superstore-Analysis/tree/main)
     
 <h2>Certification</h2>
 
